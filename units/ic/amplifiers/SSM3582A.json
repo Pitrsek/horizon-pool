@@ -1,0 +1,80 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "SSM3582A",
+    "pins": {
+        "15832611-c65e-4df9-9fd2-e74cc35672b7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BSTL+",
+            "swap_group": 0
+        },
+        "1bc748d1-fa8b-4a21-b90c-5e4f0b4dd2c3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTR+",
+            "swap_group": 0
+        },
+        "41bb68d2-e7db-46e4-a76c-6076f90f180c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTR-",
+            "swap_group": 0
+        },
+        "9da64524-8b25-4963-b65f-a9ffc142a4b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BSTR-",
+            "swap_group": 0
+        },
+        "bf0bb5eb-34c2-4519-a916-e4cd88ddc157": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTL+",
+            "swap_group": 0
+        },
+        "d0e4a8cd-11fc-4b82-8b49-0dcbf9243124": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTL-",
+            "swap_group": 0
+        },
+        "d26d7ccb-f98c-4bb3-9957-1adc382f69c2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BSTL-",
+            "swap_group": 0
+        },
+        "d708211d-f5cc-42a6-91c1-a6e0c1ccb100": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTR+",
+            "swap_group": 0
+        },
+        "e1e127d6-a07d-4c08-b5b8-7de975a27744": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BSTR+",
+            "swap_group": 0
+        },
+        "e5088300-6f69-4f9c-9d4f-f8818aa36629": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTL+",
+            "swap_group": 0
+        },
+        "eaa1df2f-5855-421f-a035-093b2d7363c9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTL-",
+            "swap_group": 0
+        },
+        "eef19770-58a8-4545-9a16-d6965e039800": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTR-",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f8e075bc-3f08-4a52-bed6-bcff0575a62d"
+}

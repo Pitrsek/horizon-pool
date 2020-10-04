@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "89b63fc9-6668-4102-a352-58664db7636b": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "225cc4bf-d91b-4897-9218-34e850000233"
+        }
+    },
+    "manufacturer": "",
+    "name": "Mounting Hole",
+    "prefix": "H",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1782f730-11b3-48f0-a591-7d0f1e198ac5"
+}

@@ -8,7 +8,7 @@
         "pad_height": 2000000,
         "pad_width": 900000,
         "paste_mask_contraction": 0,
-        "solder_mask_expansion": 100000
+        "solder_mask_expansion": 0
     },
     "parameters_required": [
         "pad_width",
@@ -38,7 +38,7 @@
             "layer": 10,
             "parameter_class": "mask_corner2",
             "params": [
-                400000
+                200000
             ],
             "placement": {
                 "angle": 0,
@@ -70,7 +70,7 @@
             "layer": 10,
             "parameter_class": "mask_corner4",
             "params": [
-                400000
+                200000
             ],
             "placement": {
                 "angle": 0,
@@ -119,7 +119,7 @@
             "layer": 10,
             "parameter_class": "mask_corner1",
             "params": [
-                400000
+                200000
             ],
             "placement": {
                 "angle": 0,
@@ -184,7 +184,7 @@
             "layer": 10,
             "parameter_class": "mask_corner3",
             "params": [
-                400000
+                200000
             ],
             "placement": {
                 "angle": 0,
@@ -200,7 +200,7 @@
             "layer": 10,
             "parameter_class": "mask2",
             "params": [
-                1100000,
+                900000,
                 1800000
             ],
             "placement": {
@@ -284,7 +284,7 @@
             "parameter_class": "mask1",
             "params": [
                 700000,
-                2200000
+                2000000
             ],
             "placement": {
                 "angle": 0,

@@ -1,0 +1,30 @@
+{
+    "manufacturer": "",
+    "name": "Single-ended driver gate with EN",
+    "pins": {
+        "1997b2b3-97f4-4a83-af3f-c756ed30ec1b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "/OE",
+            "swap_group": 0
+        },
+        "79f885fa-a434-44c1-94d8-c0728e4fc2eb": {
+            "direction": "input",
+            "names": [
+                "In1"
+            ],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "a8c0d3aa-71cd-480d-864d-94ed747d6695": {
+            "direction": "output",
+            "names": [
+                "Out"
+            ],
+            "primary_name": "Y",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "92102cf9-e896-4859-9f9d-ed8dbb05e2cb"
+}

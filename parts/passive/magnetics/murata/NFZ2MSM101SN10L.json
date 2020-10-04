@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "NFZ2MSM101SN10L"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/en-us/products/productdata/8796736815134/ENFJ0002.pdf"
+    ],
+    "description": [
+        false,
+        "100 Ohms @ 100MHz 1 Ferrite Bead 0806 (2016 Metric) 4A 18mOhm"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "56c3d23b-910b-4c60-a1e2-f3212231abcf": "NFZ2MSM101SN10L"
+    },
+    "package": "0802ce55-60ed-43d3-b3d5-3f822336f218",
+    "pad_map": {
+        "16f2c58e-ab0c-42a3-9dbd-2880d8768ecf": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "83e9e3f1-a974-4611-a61b-8dffcb6090c1": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "81d6ebda-864f-4124-a592-e5f9d3151a5c",
+    "value": [
+        false,
+        "100 Ohms @ 100MHz"
+    ]
+}

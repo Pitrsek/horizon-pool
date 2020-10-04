@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "7f1e847b-da29-4440-87c3-ec64ab6f5acb": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "92102cf9-e896-4859-9f9d-ed8dbb05e2cb"
+        },
+        "fd226afb-7534-4b42-9597-c6fe04c1ecb8": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5e445db2-045c-44be-8bd6-200bb440f115"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC1G125",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "766b6d87-a8be-4141-9e87-29a9c596d985"
+}

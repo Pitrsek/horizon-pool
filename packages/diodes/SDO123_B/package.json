@@ -1,0 +1,19 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "SDO123_B",
+    "pads": {},
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "e9c30e38-84ea-4e97-a092-7b4e865f08a7"
+}

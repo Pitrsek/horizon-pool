@@ -1,0 +1,140 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "SSM3582A-POWER",
+    "pins": {
+        "1b52edec-b8d3-411a-809c-036dfc9e3473": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVDD",
+            "swap_group": 0
+        },
+        "1c8bef01-c5f4-40a8-b956-5cfb23a7ec46": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "1d62b4f3-01b7-479a-bb4c-5f576d38542a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "2f999563-229d-419b-8d80-d932cb05faef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "38ddb997-a2b1-4f91-8558-1582d53e3e8d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "3bc4fd14-0404-4750-8ff6-5337e6da7696": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "3dc4e7a1-99db-45ca-8f68-6f0404ace8aa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "4d3ad0e1-0c48-4702-be9b-6746e99376f4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "5412524f-14bc-4e76-a0dc-c549cae45316": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "59290659-5a25-4b41-8e6b-a07542dbf86b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "5f87783e-e90f-4c84-ac02-9972b9fabb9b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "743efceb-8552-4646-8625-ba2d25bc59ab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DVDD_EN",
+            "swap_group": 0
+        },
+        "822a4dde-cc9b-40c3-84d4-69c5364c59c3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AVDD_EN",
+            "swap_group": 0
+        },
+        "94e72724-acc4-450a-a3b6-5ad939aaffba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AVDD",
+            "swap_group": 0
+        },
+        "ac46546f-bdbc-44c0-9c02-ed168c697c43": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "d4d81293-0550-42f4-98dc-debd4039504b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "da7a0a61-abb6-43c8-b47d-72a7a4fde363": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "e140e468-304b-4cd1-b0cf-ad8a937ae4fc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "EPAD",
+            "swap_group": 0
+        },
+        "e19dedd9-1587-48ad-be1b-021d41fb5121": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "e7b691c4-5e46-46a2-a181-c25a34a4ed9b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "f56a09ef-1366-47d9-913d-bd5c97995093": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        },
+        "fd3fc8ab-cd90-4139-92c8-26d913bde87f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PVDD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5fb2eb83-f5f7-45a4-bab2-4d23af3b8a92"
+}

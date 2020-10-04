@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "20SVPK680M"
+    ],
+    "datasheet": [
+        false,
+        "https://b2b-api.panasonic.eu/file_stream/pids/fileversion/4319"
+    ],
+    "description": [
+        false,
+        "680uF/20 OS-CON capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "d06731eb-cc43-4283-b196-92971c1a3fb4",
+    "orderable_MPNs": {
+        "1da3ec7f-e54e-4269-ac09-725829a39710": "",
+        "75ea4ccb-81d8-4de7-8766-720bea339c6f": "20SVPK680M"
+    },
+    "package": "79fb3c44-12e0-4474-a464-b01ebd2be5b9",
+    "pad_map": {
+        "02c61007-e20e-4ebc-bb5b-ce71838f9b3e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "9f6468a5-9be4-469d-9ca6-faff09ee2106": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00068",
+        "wvdc": "20"
+    },
+    "tags": [
+        "OS-CON",
+        "SVPK"
+    ],
+    "type": "part",
+    "uuid": "4e939367-f3de-4292-bddb-5c5e9a5b4de1",
+    "value": [
+        false,
+        "680uF/20V"
+    ]
+}

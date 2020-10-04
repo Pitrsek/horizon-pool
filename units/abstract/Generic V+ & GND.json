@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Generic V+ &  GND",
+    "pins": {
+        "184b0a67-89cd-432a-a028-87e8ce642213": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "ad763e0b-1ee5-4750-be50-831e92afccb1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5e445db2-045c-44be-8bd6-200bb440f115"
+}

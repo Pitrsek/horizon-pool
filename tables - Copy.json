@@ -1,0 +1,230 @@
+{
+"tables": {
+	"resistors" : {
+		"display_name": "Resistors",
+		"columns" : [
+			{
+				"name": "value",
+				"display_name" : "Value",
+				"type" : "quantity",
+				"unit" : "Ω",
+				"use_si" : true,
+				"digits" : 2
+			},
+			{
+				"name" : "tolerance",
+				"display_name": "Tolerance",
+				"type" : "quantity",
+				"unit" : "%",
+				"use_si" : false
+			},
+			{
+				"name": "pmax",
+				"display_name": "Power rating",
+				"type" : "quantity",
+				"unit" : "W",
+				"use_si" : false,
+				"digits" : 3
+			}
+		]
+	},
+	"capacitors" : {
+		"display_name": "Capacitors",
+		"columns" : [
+			{
+				"name": "value",
+				"display_name" : "Value",
+				"type" : "quantity",
+				"unit" : "F",
+				"use_si" : true,
+				"digits" : 2
+			},
+			{
+				"name" : "wvdc",
+				"display_name": "Voltage rating",
+				"type" : "quantity",
+				"unit" : "V",
+				"use_si" : false
+			},
+			{
+				"name" : "type",
+				"display_name": "Type",
+				"type" : "enum",
+				"items" : [
+					"Electrolytic",
+					"C0G/NP0",
+					"X5R",
+					"X7R",
+					"X6S",
+					"Y5V",
+					"X7S",
+					"X7T",
+					"X8L",
+					"X8R",
+					"Polyester",
+					"Polypropylene"
+				]
+			},
+			{
+				"name" : "tolerance",
+				"display_name": "Tolerance",
+				"type" : "quantity",
+				"unit" : "%",
+				"use_si" : false,
+				"required": false
+			}
+		]
+	},
+	"inductors" : {
+		"display_name": "Inductors",
+		"columns" : [
+			{
+				"name": "value",
+				"display_name" : "Value",
+				"type" : "quantity",
+				"unit" : "H",
+				"use_si" : true,
+				"digits" : 2
+			},
+			{
+				"name" : "idc",
+				"display_name": "Current rating",
+				"type" : "quantity",
+				"unit" : "A",
+				"use_si" : false
+			},
+			{
+				"name" : "dcr",
+				"display_name": "DC resistance",
+				"type" : "quantity",
+				"unit" : "Ω",
+				"use_si" : true,
+				"digits": 1
+			}
+		]
+	},
+	"PCB_Fabrication" : {
+		"display_name": "PCB_Fabrication",
+		"columns" : [
+			
+			{
+				"name" : "type",
+				"display_name": "Type",
+				"type" : "enum",
+				"items" : [
+					"Test Point",
+					"Panelization",
+					"Hole",
+					"Symbols/Tables"
+				]
+			}
+			
+		]
+	}
+	"connectors" : {
+		"display_name": "Connectors",
+		"columns" : [
+			{
+				"name" : "mounting style",
+				"display_name": "Mounting style",
+				"type" : "enum",
+				"items" : [
+					"THT",
+					"SMD",
+					"Cable - crimp",
+					"Cable - solder",
+					"N/A"
+					
+				]
+			},
+			{
+				"name" : "family",
+				"display_name": "Family",
+				"type" : "enum",
+				"items" : [
+					"MLW/IDC",
+					"2061"	
+				]
+			},	
+			{
+				"name" : "Conntacts",
+				"display_name": "Conntacts",
+				"type" : "quantity",
+				"unit" : "none",
+				"use_si" : false
+			},
+			{
+				"name" : "rows",
+				"display_name": "# Rows",
+				"type" : "quantity",
+				"unit" : "none",
+				"use_si" : false
+			},	
+			{
+				"name": "Pitch",
+				"display_name" : "Pitch",
+				"type" : "enum",
+				"items" : [
+					"2.54mm",
+					"6mm"
+					
+				]
+			},
+			{
+				"name" : "wvdc",
+				"display_name": "Voltage rating",
+				"type" : "quantity",
+				"unit" : "V",
+				"use_si" : false
+			},
+			{
+				"name" : "idc",
+				"display_name": "Current rating",
+				"type" : "quantity",
+				"unit" : "A",
+				"use_si" : false
+			},
+
+
+			{
+				"name" : "Gender",
+				"display_name": "Gender",
+				"type" : "enum",
+				"items" : [
+					"Male/Header",
+					"Female/Scoket",
+					"Uni"
+				]
+			},
+			{
+				"name" : "Plating",
+				"display_name": "Plating",
+				"type" : "enum",
+				"items" : [
+					"Au",
+					"Sn"
+				]
+			},
+			{
+				"name" : "Orientation",
+				"display_name": "Orientation",
+				"type" : "enum",
+				"items" : [
+					"Parallel to PCB",
+					"Perpendicular to PCB"
+				]
+			},
+			{
+				"name" : "Orientation",
+				"display_name": "Orientation",
+				"type" : "enum",
+				"items" : [
+					"Contact",
+					"Housing",
+					"Whole assembly"
+				]
+			},
+		]
+	},	
+}
+}

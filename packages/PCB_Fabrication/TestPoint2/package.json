@@ -1,0 +1,107 @@
+{
+    "alternate_for": "0a91e80e-b7f2-43b1-a38e-c97aee89faf2",
+    "arcs": {
+        "1c9d6056-e0b8-4433-b448-38a9823465c2": {
+            "center": "27042428-2b75-4d94-b1eb-4dd38c58149e",
+            "from": "b2779600-a10f-48ce-8e91-742303467343",
+            "layer": 20,
+            "to": "7ce9aaf5-ec79-46a1-8876-2411e18ae70d",
+            "width": 150000
+        },
+        "2a11a771-4dae-4083-b7a3-0f846f61429b": {
+            "center": "a392d857-0038-4e29-aba3-2524e053f5b6",
+            "from": "102627a2-d708-4ead-8c99-619872bd848d",
+            "layer": 20,
+            "to": "9d622796-79ed-4f66-a889-1a34489363cd",
+            "width": 150000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "102627a2-d708-4ead-8c99-619872bd848d": {
+            "position": [
+                -400000,
+                -500000
+            ]
+        },
+        "27042428-2b75-4d94-b1eb-4dd38c58149e": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "7ce9aaf5-ec79-46a1-8876-2411e18ae70d": {
+            "position": [
+                -400000,
+                500000
+            ]
+        },
+        "9d622796-79ed-4f66-a889-1a34489363cd": {
+            "position": [
+                400000,
+                -500000
+            ]
+        },
+        "a392d857-0038-4e29-aba3-2524e053f5b6": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "b2779600-a10f-48ce-8e91-742303467343": {
+            "position": [
+                400000,
+                500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "TP_1mm_SMD",
+    "pads": {
+        "6d22b020-e279-44de-9125-96d7ed7c9abb": {
+            "name": "1",
+            "padstack": "92086951-a75a-4fde-80a5-b6b2c653ad7d",
+            "parameter_set": {
+                "pad_diameter": 1000000,
+                "solder_mask_expansion": 50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "tags": [],
+    "texts": {
+        "1505ce4b-71ed-4f66-9ebd-0d882913a32d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    0,
+                    800000
+                ]
+            },
+            "size": 800000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "1fdbc662-bb88-4886-af09-2b39c035d51e"
+}

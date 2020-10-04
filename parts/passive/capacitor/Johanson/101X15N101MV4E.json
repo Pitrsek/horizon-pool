@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "101X15N101MV4E"
+    ],
+    "datasheet": [
+        false,
+        "https://www.johansondielectrics.com/downloads/x2y-filter-and-decoupling-capacitors.pdf"
+    ],
+    "description": [
+        false,
+        "X2Y Capacitor 100pF/100V"
+    ],
+    "entity": "f0ccc703-5aac-4f0e-bba3-8b88b80db85d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Johanson Dielectrics"
+    ],
+    "model": "c4122506-ffbc-47b1-8906-648ba91f0936",
+    "orderable_MPNs": {
+        "fb3b0beb-2dba-4794-8ff9-a88ebbc10478": "101X15N101MV4E"
+    },
+    "package": "13c9fff7-ff06-42e9-9b1e-d5d4369765e4",
+    "pad_map": {
+        "82d18403-1f57-45be-8324-77977f9263a0": {
+            "gate": "886f44a6-fae1-4813-a539-d521a1523e80",
+            "pin": "e29673e9-5a7e-4c59-9eac-4bd2dae4ff3d"
+        },
+        "9114c86e-025e-460d-ad17-62aa73818680": {
+            "gate": "886f44a6-fae1-4813-a539-d521a1523e80",
+            "pin": "87076a19-b02a-48d2-93b2-0dfdad678dda"
+        },
+        "d86e461f-a813-4a57-9538-3a99866602b7": {
+            "gate": "886f44a6-fae1-4813-a539-d521a1523e80",
+            "pin": "90ac08a7-4e68-433e-862f-ed305ca8b1d7"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "C0G/NP0",
+        "value": "1e-10",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6b43af36-6418-44fd-85f3-797780f1fb11",
+    "value": [
+        false,
+        "100pF/100V"
+    ]
+}

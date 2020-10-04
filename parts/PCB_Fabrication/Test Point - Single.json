@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "Test Point - Single"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Via Test Point"
+    ],
+    "entity": "351c57ff-2e39-4b17-93fb-a396b79e90b3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0a91e80e-b7f2-43b1-a38e-c97aee89faf2",
+    "pad_map": {
+        "6d22b020-e279-44de-9125-96d7ed7c9abb": {
+            "gate": "8277628b-6d7e-4f21-a662-4b3edc5202b4",
+            "pin": "ec6ab023-9760-4f5f-a0a5-607d363c662f"
+        }
+    },
+    "parametric": {
+        "table": "PCB_Fabrication",
+        "type": "Test Point"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6c6e48a5-6b00-4f28-bf0f-9c3524117b6a",
+    "value": [
+        false,
+        "GiveMeName!"
+    ]
+}

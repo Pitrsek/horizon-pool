@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "CageClamp - 2 x white"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Push-in CAGE CLAMP, SMD PCB terminal block white"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wago"
+    ],
+    "model": "ec009fa1-a88b-4556-939e-7eb381d5c7d5",
+    "orderable_MPNs": {
+        "f90f66d2-a0d1-4811-ab4e-e4cb23e0147f": "2061-602/998-404"
+    },
+    "package": "6d2de5ca-a2aa-4f9e-8a26-823a7c7209b8",
+    "pad_map": {
+        "408e2d53-9f1c-435a-8b6f-88c00b38c151": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        },
+        "6143084b-79c0-4f06-9b53-ffea1810ffd4": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        },
+        "7bb4fdf7-00b4-4f3f-83da-7ec9d506c1a9": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "b4ed1ed4-58ec-4892-b15e-4de5e458c5fb": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        }
+    },
+    "parametric": {
+        "contacts": "2",
+        "family": "2061",
+        "gender": "Female/Socket",
+        "idc": "10",
+        "mounting style": "SMD",
+        "orientation": "Parallel to PCB",
+        "pitch": "6mm",
+        "plating": "Sn",
+        "rows": "1",
+        "table": "connectors",
+        "type": "Whole assembly",
+        "wvdc": "250"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "45b8e28d-d5fe-4633-9363-f32a72bb84f8",
+    "value": [
+        false,
+        "GiveMeName!"
+    ]
+}

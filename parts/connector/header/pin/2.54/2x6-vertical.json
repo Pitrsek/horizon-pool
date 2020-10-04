@@ -12,13 +12,17 @@
         ""
     ],
     "entity": "601377b4-7b7f-4188-ad29-7f20456e45fd",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         ""
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "orderable_MPNs": {
+        "45ac1fe5-8560-414c-9009-21bd119109f4": "",
+        "bf15d89a-a68a-4807-9594-cf9e2a513ee9": "10129381-912001BLF"
+    },
     "package": "938e7f4a-5113-47bd-9ebb-f0feb2e32e80",
     "pad_map": {
         "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {

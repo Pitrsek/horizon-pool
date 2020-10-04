@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Generic V+ & V-",
+    "pins": {
+        "32808afb-4cbd-4c9b-8a9b-53777bc4fe4c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "acc33764-466c-40d4-ad52-dea0d456a9ab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5c816e3f-0a62-4e76-8d6f-7177731c615f"
+}

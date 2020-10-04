@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "865080145010"
+    ],
+    "datasheet": [
+        false,
+        "https://www.we-online.com/catalog/datasheet/865080145010.pdf"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "839677af-49da-4f31-9620-7108769e3e6e",
+    "orderable_MPNs": {
+        "8fee9209-19f6-420c-83d5-f0afb46318dd": "\n865080145010\n"
+    },
+    "package": "40126afa-1cfd-48ba-af8a-793a2d59b2e3",
+    "pad_map": {
+        "23f6f469-cf82-4609-8170-75ca9d711c3f": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "8cda03a2-a4d7-4219-b697-11c3337401a2": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00033",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "b2194b2a-7a9c-4156-87de-a0d35227a33f",
+    "value": [
+        false,
+        "330uF/6.3V"
+    ]
+}

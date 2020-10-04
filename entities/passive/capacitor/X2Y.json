@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "886f44a6-fae1-4813-a539-d521a1523e80": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "88df7be6-532b-4782-b851-ec29670e1d87"
+        }
+    },
+    "manufacturer": "Johanson Dielectrics",
+    "name": "X2Y",
+    "prefix": "C",
+    "tags": [],
+    "type": "entity",
+    "uuid": "f0ccc703-5aac-4f0e-bba3-8b88b80db85d"
+}

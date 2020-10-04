@@ -1,0 +1,102 @@
+{
+    "arcs": {
+        "caff7d31-6c36-430b-86a8-88e369f40fdf": {
+            "center": "4b3747ed-f93d-4cb3-8b04-20cf8b0a7770",
+            "from": "a5311c42-4246-44a1-9a65-a15f9067c4de",
+            "layer": 0,
+            "to": "1fbb013e-0d8b-4ed5-a34e-a526f1eca73d",
+            "width": 1600000
+        },
+        "df75f9fe-46bd-4480-9c74-56383fdf750b": {
+            "center": "1a5382ed-0eb7-4b28-bdde-4069171ca01e",
+            "from": "13bc5345-2aa2-442b-b4aa-1db3b5ef557c",
+            "layer": 0,
+            "to": "a1da6fa0-1c59-43a1-9920-1b16521d9581",
+            "width": 1600000
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "13bc5345-2aa2-442b-b4aa-1db3b5ef557c": {
+            "position": [
+                -2500000,
+                0
+            ]
+        },
+        "1a5382ed-0eb7-4b28-bdde-4069171ca01e": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "1fbb013e-0d8b-4ed5-a34e-a526f1eca73d": {
+            "position": [
+                -2500000,
+                0
+            ]
+        },
+        "4b3747ed-f93d-4cb3-8b04-20cf8b0a7770": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "a1da6fa0-1c59-43a1-9920-1b16521d9581": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "a5311c42-4246-44a1-9a65-a15f9067c4de": {
+            "position": [
+                2500000,
+                0
+            ]
+        }
+    },
+    "lines": {},
+    "name": "Mounting Hole",
+    "pins": {
+        "59735a4f-f4b5-434f-a4d4-bda2ea614aaa": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "down",
+            "pad_visible": false,
+            "position": [
+                0,
+                -5000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "fdfabcd8-8ec7-4d4b-93be-ddbf0e08653d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    6250000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "225cc4bf-d91b-4897-9218-34e850000233",
+    "uuid": "e8641bd0-e8bd-418e-8ae2-e44e2c07d120"
+}

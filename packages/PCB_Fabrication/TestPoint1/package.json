@@ -1,0 +1,174 @@
+{
+    "arcs": {
+        "0c6995d7-b0ca-4ec2-a84c-ae9a2a218ab6": {
+            "center": "8785ff65-4e62-42ac-8349-98ade5619d90",
+            "from": "1f9f15e6-6956-46c7-acb6-114f3b9ee31e",
+            "layer": -120,
+            "to": "9ac76962-52c7-4164-818e-4cc6ccf94d13",
+            "width": 150000
+        },
+        "180a4870-85bf-44c8-b64a-ae372e399c01": {
+            "center": "a51108ae-6777-4ef9-a87d-8ade9ac42347",
+            "from": "3364a5d8-d257-4e8d-b8ec-f20fd9270774",
+            "layer": 20,
+            "to": "095e51e9-ba6f-4a76-8f2a-ab002aa14c1f",
+            "width": 150000
+        },
+        "86fc7066-83f2-42c8-8df2-4a201525a079": {
+            "center": "3ca026c8-4395-4cc9-b555-4804a3ffecb5",
+            "from": "ce73fdbc-d1c0-4424-81f1-7a6742fa393c",
+            "layer": -120,
+            "to": "42c01360-526f-472e-bb3b-d5f73b3e193b",
+            "width": 150000
+        },
+        "e2bb5096-6058-4b89-8ec7-6b618d3b0ede": {
+            "center": "27042428-2b75-4d94-b1eb-4dd38c58149e",
+            "from": "fd9c292d-d9d3-4208-8501-580d73f9783c",
+            "layer": 20,
+            "to": "853f299a-8ad1-44ac-8f53-6767adf95198",
+            "width": 150000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "095e51e9-ba6f-4a76-8f2a-ab002aa14c1f": {
+            "position": [
+                300000,
+                -400000
+            ]
+        },
+        "1f9f15e6-6956-46c7-acb6-114f3b9ee31e": {
+            "position": [
+                300000,
+                400000
+            ]
+        },
+        "27042428-2b75-4d94-b1eb-4dd38c58149e": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "3364a5d8-d257-4e8d-b8ec-f20fd9270774": {
+            "position": [
+                -300000,
+                -400000
+            ]
+        },
+        "3ca026c8-4395-4cc9-b555-4804a3ffecb5": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "42c01360-526f-472e-bb3b-d5f73b3e193b": {
+            "position": [
+                300000,
+                -400000
+            ]
+        },
+        "853f299a-8ad1-44ac-8f53-6767adf95198": {
+            "position": [
+                -300000,
+                400000
+            ]
+        },
+        "8785ff65-4e62-42ac-8349-98ade5619d90": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "9ac76962-52c7-4164-818e-4cc6ccf94d13": {
+            "position": [
+                -300000,
+                400000
+            ]
+        },
+        "a51108ae-6777-4ef9-a87d-8ade9ac42347": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "ce73fdbc-d1c0-4424-81f1-7a6742fa393c": {
+            "position": [
+                -300000,
+                -400000
+            ]
+        },
+        "fd9c292d-d9d3-4208-8501-580d73f9783c": {
+            "position": [
+                300000,
+                400000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "TestPont 0.4/0.8 - RS",
+    "pads": {
+        "6d22b020-e279-44de-9125-96d7ed7c9abb": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 400000,
+                "pad_diameter": 800000,
+                "solder_mask_expansion": -50000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "tags": [],
+    "texts": {
+        "1158c092-bf55-4ae6-89b5-1a7c0d12701a": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": true,
+                "shift": [
+                    0,
+                    800000
+                ]
+            },
+            "size": 800000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "1505ce4b-71ed-4f66-9ebd-0d882913a32d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    0,
+                    800000
+                ]
+            },
+            "size": 800000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "0a91e80e-b7f2-43b1-a38e-c97aee89faf2"
+}

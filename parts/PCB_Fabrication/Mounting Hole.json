@@ -1,0 +1,76 @@
+{
+    "MPN": [
+        false,
+        "Mounting Hole"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Mounting Hole"
+    ],
+    "entity": "1782f730-11b3-48f0-a591-7d0f1e198ac5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "94ae657e-3eeb-4833-a3f1-d26af6aae1b6",
+    "pad_map": {
+        "0c9dc327-4d6d-4b04-9c73-539d5fede55c": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "23db35b1-8734-4235-a94e-4b83843a9332": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "5c911493-cd8f-4fbf-8f2f-0551437d1ec5": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "7246a659-4fe7-404e-9755-c2b687476195": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "7d5248ad-c1a6-43ab-a0fb-3a08d53dccc6": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "a4a66872-faa0-4acd-a541-5320a2dbf100": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "aecd9803-474a-4ff6-bb3c-f2ca53bc64e0": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "badd2170-5bd5-4e42-a5cd-9aa21494a451": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "d9c986f4-67a6-4915-ae45-4d077668d9f2": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        },
+        "ec39e335-3aa4-4936-8852-cee9d6b1c3d8": {
+            "gate": "89b63fc9-6668-4102-a352-58664db7636b",
+            "pin": "59735a4f-f4b5-434f-a4d4-bda2ea614aaa"
+        }
+    },
+    "parametric": {
+        "table": "PCB_Fabrication",
+        "type": "Hole"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3478256d-4eab-4f6e-8393-0a2b2b8b279d",
+    "value": [
+        false,
+        ""
+    ]
+}

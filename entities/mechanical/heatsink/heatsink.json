@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "bb6c12f5-ba18-4990-9a43-6efbd3049b85": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d14c117e-217e-4204-805d-02d8a44ef672"
+        }
+    },
+    "manufacturer": "ATS",
+    "name": "Heatsink",
+    "prefix": "HS",
+    "tags": [],
+    "type": "entity",
+    "uuid": "422cada8-10b4-487c-9b65-6b5df8903cf1"
+}

@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "50MU475KD35750"
+    ],
+    "datasheet": [
+        false,
+        "http://www.rubycon.co.jp/en/catalog/e_pdfs/pmlcap/e_MU.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Foil Capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Rubycon"
+    ],
+    "model": "00e4fa6b-706f-4695-84d3-5512790f863c",
+    "orderable_MPNs": {
+        "6ddfb6ad-3e8f-46c5-9783-dd308f15e0fd": "50MU475KD35750"
+    },
+    "package": "0c756508-39e6-4325-8451-7f0367f5a511",
+    "pad_map": {
+        "625d2f1f-d6bf-45a6-8ca2-b5e6a1582a50": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "d1519f80-4bf1-4415-b064-73d87bfe5a4f": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "C0G/NP0",
+        "value": "4.7e-06",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ed5c7345-9e34-401d-9084-d310ecc198fe",
+    "value": [
+        false,
+        "4.7uF"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Johanson Dielectrics",
+    "name": "X2Y",
+    "pins": {
+        "87076a19-b02a-48d2-93b2-0dfdad678dda": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        },
+        "90ac08a7-4e68-433e-862f-ed305ca8b1d7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "e29673e9-5a7e-4c59-9eac-4bd2dae4ff3d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "88df7be6-532b-4782-b851-ec29670e1d87"
+}

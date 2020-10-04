@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "0734152063"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/734152063_sd.pdf"
+    ],
+    "description": [
+        false,
+        "CONN MMCX JACK STR 50 OHM SMD"
+    ],
+    "entity": "1d1d771d-3f05-4639-ba89-48f54cee58c6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "006d5fea-9e33-474f-b138-0feeda69caf2",
+    "orderable_MPNs": {
+        "4b3f194a-846a-41d5-9493-fb6cd2e50eaa": "0734152063"
+    },
+    "package": "0756e5c6-2a70-4f5e-8180-cfb228a40da8",
+    "pad_map": {
+        "41becd10-465b-460d-bf24-4b849efe0b78": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "4a459941-f59b-4cb7-a156-e8b5e411c1cf": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "60bae917-f48e-4fa9-b9d0-c174deea075d": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        },
+        "7fd3ee09-80cc-4043-8a9d-f68af82eb135": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "a01e0362-c2b2-4565-9588-bc920e201988"
+        },
+        "9bed3255-8fe5-44d5-a9ab-6b5ab743ee6f": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "43d968ad-70c6-4bc7-bd49-f3183e639063",
+    "value": [
+        false,
+        "GiveMeName!"
+    ]
+}

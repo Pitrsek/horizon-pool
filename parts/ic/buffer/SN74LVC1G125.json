@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC1G125"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf"
+    ],
+    "description": [
+        false,
+        "SingleBus BufferGate With 3-StateOutput"
+    ],
+    "entity": "766b6d87-a8be-4141-9e87-29a9c596d985",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "d2b83884-2f9c-47c7-8c4d-7ccf5bc04fb8": "",
+        "f568b149-4b5c-4f4e-8173-85e5a7f92508": "SN74LVC1G125DBVT"
+    },
+    "package": "70c65846-2ee7-4d11-9d38-fe0fa84dc963",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "7f1e847b-da29-4440-87c3-ec64ab6f5acb",
+            "pin": "79f885fa-a434-44c1-94d8-c0728e4fc2eb"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "7f1e847b-da29-4440-87c3-ec64ab6f5acb",
+            "pin": "a8c0d3aa-71cd-480d-864d-94ed747d6695"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "7f1e847b-da29-4440-87c3-ec64ab6f5acb",
+            "pin": "1997b2b3-97f4-4a83-af3f-c756ed30ec1b"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "fd226afb-7534-4b42-9597-c6fe04c1ecb8",
+            "pin": "184b0a67-89cd-432a-a028-87e8ce642213"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "fd226afb-7534-4b42-9597-c6fe04c1ecb8",
+            "pin": "ad763e0b-1ee5-4750-be50-831e92afccb1"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "534bc3b3-8fb3-4cea-a729-a1dc69679ed3",
+    "value": [
+        false,
+        ""
+    ]
+}

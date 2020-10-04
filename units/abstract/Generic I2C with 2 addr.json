@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Generic I2C with 2 addr",
+    "pins": {
+        "07a2c232-deaa-46f7-9ec1-5feeae011b2c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR0",
+            "swap_group": 0
+        },
+        "0d722e12-e726-426d-b4e8-562747fc0cc0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "55162f8d-1af5-4401-8d24-b018fd020531": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR1",
+            "swap_group": 0
+        },
+        "e8149269-ac35-494b-b560-6ffb8fca6df6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "507bc671-1221-4b7c-be80-e40a20016703"
+}

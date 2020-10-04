@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Heatsink",
+    "pins": {
+        "31b82ef2-17d9-4acf-be82-f678a9286c9c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d14c117e-217e-4204-805d-02d8a44ef672"
+}

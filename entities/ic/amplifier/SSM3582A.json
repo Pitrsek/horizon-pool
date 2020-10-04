@@ -1,0 +1,34 @@
+{
+    "gates": {
+        "0cea5cd9-c55f-4f4c-b71b-d7648de255d1": {
+            "name": "",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "d2b1b0ef-6a6a-4dcc-9d5f-8788664c6497"
+        },
+        "3678a30f-557a-4c51-983f-aa79f65cda65": {
+            "name": "IO",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "f8e075bc-3f08-4a52-bed6-bcff0575a62d"
+        },
+        "f0674535-c54c-4b32-be0b-8d04c2971002": {
+            "name": "",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "507bc671-1221-4b7c-be80-e40a20016703"
+        },
+        "f3e38ce7-c1ea-44c1-b636-078dd18ac28d": {
+            "name": "Power",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "5fb2eb83-f5f7-45a4-bab2-4d23af3b8a92"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "SSM3582A",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1eb8ca92-e070-4a9c-84ac-9833ec951309"
+}

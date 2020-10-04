@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Test Point - Single",
+    "pins": {
+        "ec6ab023-9760-4f5f-a0a5-607d363c662f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1f7431c6-2094-4de6-809c-a79bcf647fd6"
+}

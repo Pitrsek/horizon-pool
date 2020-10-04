@@ -60,7 +60,9 @@
 					"X7S",
 					"X7T",
 					"X8L",
-					"X8R"
+					"X8R",
+					"Polyester",
+					"Polypropylene"
 				]
 			},
 			{
@@ -100,6 +102,127 @@
 				"digits": 1
 			}
 		]
-	}
+	},
+
+	"PCB_Fabrication" : {
+		"display_name": "PCB_Fabrication",
+		"columns" : [
+			{
+				"name" : "type",
+				"display_name": "Type",
+				"type" : "enum",
+				"items" : [
+					"Test Point",
+					"Panelization",
+					"Hole",
+					"Symbols/Tables"
+				]
+			}
+			
+		]
+	},
+	"connectors" : {
+		"display_name": "Connectors",
+		"columns" : [
+			{
+				"name" : "mounting style",
+				"display_name": "Mounting style",
+				"type" : "enum",
+				"items" : [
+					"THT",
+					"SMD",
+					"Cable - crimp",
+					"Cable - solder",
+					"Cable - IDC",
+					"N/A"
+					
+				]
+			},
+			{
+				"name" : "family",
+				"display_name": "Family",
+				"type" : "enum",
+				"items" : [
+					"MLW/IDC",
+					"2061"	
+				]
+			},	
+			{
+				"name" : "contacts",
+				"display_name": "# Contacts",
+				"type" : "quantity",
+				"unit" : "none",
+				"use_si" : false
+			},
+			{
+				"name" : "rows",
+				"display_name": "# Rows",
+				"type" : "quantity",
+				"unit" : "none",
+				"use_si" : false
+			},	
+			{
+				"name": "pitch",
+				"display_name" : "Pitch",
+				"type" : "enum",
+				"items" : [
+					"2.54mm",
+					"6mm"
+				]
+			},
+			{
+				"name" : "wvdc",
+				"display_name": "Voltage rating",
+				"type" : "quantity",
+				"unit" : "V",
+				"use_si" : false
+			},
+			{
+				"name" : "idc",
+				"display_name": "Current rating",
+				"type" : "quantity",
+				"unit" : "A",
+				"use_si" : false
+			},
+			{
+				"name" : "gender",
+				"display_name": "Gender",
+				"type" : "enum",
+				"items" : [
+					"Male/Header",
+					"Female/Socket",
+					"Unisex"
+				]
+			},
+			{
+				"name" : "plating",
+				"display_name": "Plating",
+				"type" : "enum",
+				"items" : [
+					"Au",
+					"Sn"
+				]
+			},
+			{
+				"name" : "orientation",
+				"display_name": "Orientation",
+				"type" : "enum",
+				"items" : [
+					"Parallel to PCB",
+					"Perpendicular to PCB"
+				]
+			},
+			{
+				"name" : "type",
+				"display_name": "Connector type",
+				"type" : "enum",
+				"items" : [
+					"Contact",
+					"Housing",
+					"Whole assembly"
+				]
+			}
+		]
+	}	
 }
 }
